@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ccc39f</color>
+    <color name="colorPrimaryDark">#856a4a</color>
+    <color name="colorAccent">#763120</color>
+    <color name="white">#fff</color>
+    <color name="gladStart">#ccc39f</color>
+    <color name="gradStop">#856a4a</color>
+</resources>
